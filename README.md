@@ -1,0 +1,1 @@
+simple script for backing up my email account to a single mbox file
